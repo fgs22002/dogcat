@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Francisco Garcia Sanchez
+description: Some basic examples of client interfaces to a computer vision API
+
+author:
+  name: Francisco Garcia (adapted from Jeremy Howard=
